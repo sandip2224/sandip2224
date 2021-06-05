@@ -20,7 +20,9 @@
 **Yeah don't worry about it. To my best possible extent under law, I have waived all copyright and related or neighboring rights to this work.**
 
 
-## Want to grab a cuppa?☕
+## ☕ Want to grab a cuppa?
+
+> I suggest three time-tested steps that will get you ONE STEP CLOSER to knowing more about this random stranger.⏳
 
 - **Step 1:**
   - Drop me an email at [sandipan2224@gmail.com](sandipan2224@gmail.com)
