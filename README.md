@@ -1,11 +1,11 @@
 <!-- <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2> -->
 
 
-## ❓ Curious about this random guy who popped on your screen? (YEAH THE PICTURE DOESN'T REVEAL MUCH DOES IT) ⚡
+## ❓ Curious about this random guy who popped up on your screen? ⚡
 
 <!-- ![Test](https://giphy.com/embed/ssYTQOB9SkwvgsLhEk) -->
 
-- **How about you explore some of my pinned repositories? That's a start right? 🧠**
+- **How about you explore some of my pinned repositories? That's a START right? 🧠**
   - There are four repositories down there at the moment 👇
   - I'd appreciate it if you could atleast explore one of them 💕
 
