@@ -30,5 +30,5 @@
 - **Step 2:**
   - Wait for a reply in 1-2 business days.™
 
-- Step 3:
+- **Step 3:**
   - There's no step 3. At this point we're officially **F.R.I.E.N.D.S**.
