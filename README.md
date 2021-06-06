@@ -6,8 +6,7 @@
 <!-- ![Test](https://giphy.com/embed/ssYTQOB9SkwvgsLhEk) -->
 
 - **How about you explore some of my pinned repositories? That's a START right? 🧠**
-  - There are four repositories down there at the moment 👇
-  - I'd appreciate it if you could atleast explore one of them 💕
+  - There are four repositories waiting down there for you. Don't break their heart 👇
 
 - **Or better yet, just fire🔥 up your TERMINAL and type the following command (sounds WEIRD but we all have our UNIQUE ways):**
 
