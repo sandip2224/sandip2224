@@ -1,7 +1,7 @@
 <!-- <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2> -->
 
 
-## ❓ Curious about this random guy who popped up on your screen? ⚡
+## ❓ [Curious](https://www.youtube.com/watch?v=dQw4w9WgXcQ) about this random guy who popped up on your screen? ⚡
 
 <!-- ![Test](https://giphy.com/embed/ssYTQOB9SkwvgsLhEk) -->
 
