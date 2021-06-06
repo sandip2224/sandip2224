@@ -3,8 +3,6 @@
 
 ## ❓ [Curious](https://www.youtube.com/watch?v=dQw4w9WgXcQ) about this random guy who popped up on your screen? ⚡
 
-<!-- ![Test](https://giphy.com/embed/ssYTQOB9SkwvgsLhEk) -->
-
 - **How about you explore some of my pinned repositories? That's a START right? 🧠**
   - There are four repositories waiting down there for you. Don't break their heart 👇
 
@@ -16,8 +14,7 @@
 
 ## 📜 License
 
-**Yeah don't worry about it. To my best possible extent under law, I have waived all copyright and related or neighboring rights to this work.**
-
+Yeah don't WORRY about it. To my best possible extent under law, I have waived all copyright and related or neighboring rights to this work.
 
 ## ☕ Want to grab a cuppa?
 
